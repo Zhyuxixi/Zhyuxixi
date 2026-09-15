@@ -1,5 +1,7 @@
 # Yuxi Zhou
 
-Student at Zhejiang University.
+Ph.D. Student at Zhejiang University.
 
-**Email:** 12321052@zju.edu.cn · zhyu.xixi@icloud.com
+**Research interests:** 3D computer vision, neural rendering, 3D Gaussian Splatting
+
+**Email:** 12321052@zju.edu.cn
